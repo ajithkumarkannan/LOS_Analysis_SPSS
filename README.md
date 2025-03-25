@@ -30,8 +30,8 @@ Kruskal-Wallis test for significance testing
 
 **How to Reproduce the Analysis**
 
-Open the provided SPSS syntax files.
-Load a dataset structured with LOS as the dependent variable and Department as the categorical independent variable.
+Open the provided SPSS syntax files (.spv).
+Load a dataset (.sav) structured with LOS as the dependent variable and Department as the categorical independent variable.
 Run Kruskal-Wallis test to verify significance.
 
 **References**
