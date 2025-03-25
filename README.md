@@ -16,6 +16,12 @@ Statistical Tests Used: ANOVA & Kruskal-Wallis (for non-parametric data).
 Tools: SPSS for statistical analysis, Excel for initial data preparation.
 Key Variables: LOS, Department, Patient Condition.
 
+Cardiology facility.jpg
+
+Endocrinology facility.jpg
+
+Neurology facility.jpg
+
 **Results & Discussion**
 
 Cardiology had the longest LOS due to higher complexity cases and prolonged treatment protocols.
